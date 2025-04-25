@@ -1,0 +1,1 @@
+The project designed a comprehensive functionality from post a new question/post to platform and module topic. The project including a PHP code and database "final_coursework_database.sql" via MySQL system to import.
